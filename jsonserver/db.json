@@ -1,0 +1,77 @@
+{
+  "users": [
+    {
+      "name": "Henry",
+      "phone": "333-444-555",
+      "email": "henry@gmail.com",
+      "education": "A",
+      "graduationschool": "cdut",
+      "profession": "doctor",
+      "profile": "asdasda",
+      "id": "1"
+    },
+    {
+      "name": "Karsa",
+      "phone": "333-444-555",
+      "email": "karsa@gmail.com",
+      "education": "A",
+      "graduationschool": "cdut",
+      "profession": "doctor",
+      "profile": "qerwerwer",
+      "id": "2",
+      "age": "33",
+      "companyId": 2
+    },
+    {
+      "name": "Bob",
+      "phone": "333-444-555",
+      "email": "bob@gmail.com",
+      "education": "B",
+      "graduationschool": "UESTC",
+      "profession": "actor",
+      "profile": "retertetr",
+      "id": "3",
+      "age": "35",
+      "companyId": 3
+    },
+    {
+      "name": "Kennys",
+      "phone": "333-444-555",
+      "email": "kennys@gmail.com",
+      "education": "C",
+      "graduationschool": "USTC",
+      "profession": "policeman",
+      "profile": "yujytut",
+      "id": "4",
+      "age": "43",
+      "companyId": 3
+    },
+    {
+      "name": "kai",
+      "phone": "1301825",
+      "email": "786",
+      "education": "1",
+      "graduationschool": "1",
+      "profession": "1",
+      "profile": "1",
+      "id": "lKqnCtH"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Huawei",
+      "description": "Huawei is good!"
+    },
+    {
+      "id": 2,
+      "name": "Xiaomi",
+      "description": "Xiaomi is good!"
+    },
+    {
+      "id": 3,
+      "name": "Google",
+      "description": "Google is good!"
+    }
+  ]
+}
