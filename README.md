@@ -7,6 +7,8 @@
 ## 先进入jsonserver文件夹中，运行本地数据jsonserver服务器
 npm install json:server
 
+photo文件夹中有效果图！
+
 ``` bash
 # install dependencies
 npm install
